@@ -1,0 +1,1 @@
+insert into [marimba_tfs].[dbo].[user](userid,name,email,password,usertype,Team)values(?,?,?,?,'Admin',?);
